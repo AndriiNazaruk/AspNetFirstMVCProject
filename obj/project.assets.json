@@ -11867,11 +11867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazaruk_a\\source\\repos\\AspNetCoreMvcFirstProject\\AspNetCoreMvcFirstProject\\AspNetCoreMvcFirstProject.csproj",
+      "projectUniqueName": "C:\\Users\\nazaruk_a\\Desktop\\FilmShopAspnet\\AspNetFirstMVCProject\\AspNetCoreMvcFirstProject.csproj",
       "projectName": "AspNetCoreMvcFirstProject",
-      "projectPath": "C:\\Users\\nazaruk_a\\source\\repos\\AspNetCoreMvcFirstProject\\AspNetCoreMvcFirstProject\\AspNetCoreMvcFirstProject.csproj",
+      "projectPath": "C:\\Users\\nazaruk_a\\Desktop\\FilmShopAspnet\\AspNetFirstMVCProject\\AspNetCoreMvcFirstProject.csproj",
       "packagesPath": "C:\\Users\\nazaruk_a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazaruk_a\\source\\repos\\AspNetCoreMvcFirstProject\\AspNetCoreMvcFirstProject\\obj\\",
+      "outputPath": "C:\\Users\\nazaruk_a\\Desktop\\FilmShopAspnet\\AspNetFirstMVCProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
